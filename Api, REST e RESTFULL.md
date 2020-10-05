@@ -70,7 +70,7 @@ Temos que entender bem um conceito que é o resouce.
 
 _clients_ - é o nosso endPoint e o nome do nosso resouce
 
-http://localhost:3000/_clients_
+http://localhost:3000/clients
 
 nop express é facil de se usar os verbos http
 
